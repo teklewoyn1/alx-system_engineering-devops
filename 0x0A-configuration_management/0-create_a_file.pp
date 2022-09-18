@@ -1,3 +1,4 @@
+#!/bin/bash
 # creates a file in the /tmp directory
 file { '/tmp/holberton':
   ensure  => 'file',
