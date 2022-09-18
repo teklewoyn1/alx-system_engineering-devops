@@ -1,5 +1,4 @@
 # enables connection to server without a password
-
 file_line {
   'passAuth':
   ensure => present,
